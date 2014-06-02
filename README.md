@@ -18,3 +18,6 @@ enable the simbl plugin using EasySimbl or whatever you prefer.
 logout / log back in. 
 
 fullscreen will be disabled on all apps that aren't protected by sandboxd
+
+I think Afloat found a workaround for this, I'll welcome any pull requests to add that feature.
+
