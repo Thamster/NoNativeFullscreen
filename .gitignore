@@ -5,4 +5,8 @@
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control?
 #
 # Pods/
+.DS_Store
+xcshareddata
+NoFullScreen.xcodeproj/xcuserdata
+NoFullScreen.xcodeproj/project.xcworkspace/xcuserdata
 
